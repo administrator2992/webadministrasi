@@ -1,6 +1,6 @@
 <?php
 // deklarasi parameter koneksi database
-$server   = "localhost";
+$server   = "0.0.0.0";
 $username = "root";
 $password = "";
 $database = "web_db";
