@@ -12,7 +12,7 @@ require_once "../config/koneksi.php"
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="css/admin.css">
-    <script src="https://kit.fontawesome.com/3a0e5a90f2.js" crossorigin="anonymous"></script>
+    <script src="https://kit.fontawesome.com/2504d5bded.js" crossorigin="anonymous"></script>
 
     <title>Data Dosen</title>
     <link rel="icon" href="../img/database.png" type="image/icon type">

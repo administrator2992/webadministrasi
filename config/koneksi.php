@@ -1,9 +1,9 @@
 <?php
 // deklarasi parameter koneksi database
-$server   = "0.0.0.0";
-$username = "root";
-$password = "";
-$database = "web_db";
+$server   = "sql303.infinityfree.com";
+$username = "if0_38754998";
+$password = "rNCCuZ8sDM";
+$database = "if0_38754998_web_db";
 
 // koneksi database
 $db = mysqli_connect($server, $username, $password, $database);
